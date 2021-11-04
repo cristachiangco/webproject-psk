@@ -1,0 +1,11 @@
+This is Plant Shop and Know. We can help you with your needs and talk about plants, trending plants that you could find and order here at our shop.
+Our system provides consumer a better user friendly service to buy what kinds of plants they want and prefer to display in their homes, making it elegant and refreshing to see the view of their living space. Our website provides such categories and recommends the best of the plants most buyers choose, making it easier to choose the plants our buyer prefers. Also when ideas and needs of tips, we provide some articles and services to our customers helping them about planting and taking care of their personal green leafy plant at home.
+
+
+Members and Contribution: 
+Laurence Angelo Batu - Developer, Designer, Tester, Debugger & Code Compiler
+Crista Mae Chiangco - Developer, Tester & Main Designer
+Edward John Aguilar - Developer, Tester & Database
+Jommel Delas Alas - Developer, Tester & Main Database
+Maria Kyla Casi - Documentation (ReadMe File) & Item/Product Researchers
+Chara Mae Inodeo - Documentation (ReadMe File) & Item/Product Researchers

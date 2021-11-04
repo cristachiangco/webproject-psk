@@ -1,0 +1,62 @@
+/***
+	***Online Website Plant Shop***
+		  ***Header Content***
+		
+			BSCS - 3A
+	Members:
+	Aguilar, Edward John
+	Batu, Laurence Angelo T.
+	Casi, Maria Kyla
+	Chiangco, Crista Mae E.
+	Delas Alas, Jommel
+	Inodeo, Chara Mae
+***/
+
+body {
+	margin : 0;
+	padding : 0;
+	font-size : 16;
+	font-family : Century Gothic;
+}
+
+.maincontainer, .about_content, .transaction_content, .receipt_content, .plant_info_content {
+	background-color : rgba(255, 255, 255, 0.6);
+	position : absolute;
+	margin : 1vw 3vw 1vw 3.5vw;
+	width : 70vw;
+	height : wrap_content;
+	top : 10vw;
+	padding-bottom : 1.5vw;
+}
+
+h4 {
+	height : 1.5vw;
+	background-color : rgb(125, 179, 143);
+	padding : .5vw 2vw .5vw 4vw;
+	border-radius : 0vw 5vw 5vw 0vw;
+	color : white;
+}
+
+h1{
+	height : 3vw;
+	background-color : rgb(125, 179, 143);
+	padding : .5vw 1vw .5vw 3vw;
+	border-radius : 0vw 5vw 5vw 0vw;
+	color : white;
+}
+
+.login:hover {
+	color : #54E8AC;
+}
+
+.login:active {
+	color : green;
+}
+
+.navi:hover, .category:hover, .cartBtn:hover {
+	background-color : #54E8AC;
+}
+
+.navi:active, .category:active, .cartBtn:active {
+	background-color : green;
+}
